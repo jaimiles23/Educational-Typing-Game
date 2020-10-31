@@ -12,3 +12,8 @@ This is a general TODO list for initial design & research
   - Notes on general game design/thoughts
 - [Branding](https://github.com/jaimiles23/Educational-Typing-Game/blob/main/design&research/branding.md)
   - Notes on initial branding, e.g., name.
+- [Activity ideas](https://github.com/jaimiles23/Educational-Typing-Game/blob/main/design&research/activity_ideas.md)
+  - General activity ideas to implement.
+- [Scope](https://github.com/jaimiles23/Educational-Typing-Game/blob/main/design&research/scope.md)
+  - Scope related issues.
+
