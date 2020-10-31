@@ -21,7 +21,7 @@ Users are challenged to defend their lives against an onslaught of words.
 ### Detailed description
 > concept still in brainstorm
 
-A map is generated with X fruit in the middle. Users are tasked to defend their fruit from animals coming to eat (steal) it. Animals spawn with a 'word' value and move towards the fruit. The user may 'pop' the animal off the map by correctly typing the word value above its head. When an animal reach the fruit, the animal picks it up and carries it off the map. When an animal is popped off the map while carrying a fruit, the fruit will land in the animal's previous position. The game is over when the animals steal all of the user's fruit.
+A map is generated with X fruit in the middle. Users are tasked to defend their fruit from animals coming to eat (steal) it. Animals spawn with a 'word' value and move towards the fruit. The user may 'pop' the animal off the map by correctly typing the word value above its head. When an animal reaches the fruit, the animal picks it up and carries it off the map. When an animal is popped off the map while carrying a fruit, the fruit will land in the animal's previous position. The game is over when the animals steal all of the user's fruit.
 
 
 ### Auxiliary features:
