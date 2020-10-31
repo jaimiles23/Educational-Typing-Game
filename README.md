@@ -30,7 +30,12 @@ This game is intended to be educational and train transferrable, practical skill
 
 
 # Contributing
-PLEASE contribute!
+This project is currently in the **initial design** stage. This means that we are:
+- Determining its intended impact
+- Collecting relevant materials
+- Considering its design
+
+PLEASE contribute! 
 - Contribution Guidelines
 - TODO list
 

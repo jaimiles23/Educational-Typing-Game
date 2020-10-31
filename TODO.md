@@ -1,25 +1,13 @@
+This is a general TODO list for initial design.
 
-This contains a general list of items to do for the game:
-
-- [Educational features](#educational-features)
-- [Deployment platform](#deployment-platform)
-- [Programming language](#programming-language)
-- [Theory of change](#theory-of-change)
-
-
-## Educational features
-
-
-## Deployment platform
-
-
-## Programming language
-
-
-## Theory of change
-
-
-
-
-
+- [Educational Features]()
+  - Identify different educational features to include in the game.
+- [Deployment Platform]()
+  - Determine the best platform to deploy the game on
+- [Programming Language]()
+  - Decide the best language to write the game in
+- [Theory of Change]()
+  - Design a theory of change for the game
+- [General Design Insights]()
+  - Notes on general game design/thoughts
 
