@@ -10,4 +10,5 @@ This is a general TODO list for initial design & research
   - Design a theory of change for the game
 - [General Design Insights](https://github.com/jaimiles23/Educational-Typing-Game/blob/main/design&research/general_design_insights.md)
   - Notes on general game design/thoughts
-
+- [Branding](https://github.com/jaimiles23/Educational-Typing-Game/blob/main/design&research/branding.md)
+  - Notes on initial branding, e.g., name.

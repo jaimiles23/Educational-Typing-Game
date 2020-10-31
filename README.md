@@ -1,7 +1,7 @@
 # Educational Typing Game
 > Generic placeholder name
 
-Repository for an educational typing game. Details to come.
+Repository for an educational typing game. In initial design & research
 
 
 # Purpose
@@ -36,6 +36,6 @@ This project is currently in the **initial design & research** stage. This means
 - Considering its design
 
 PLEASE contribute! 
-- (Contribution Guidelines)[https://github.com/jaimiles23/Educational-Typing-Game/blob/main/CONTRIBUTING.md]
-- (TODO list)[https://github.com/jaimiles23/Educational-Typing-Game/blob/main/TODO.md]
+- [Contribution Guidelines](https://github.com/jaimiles23/Educational-Typing-Game/blob/main/CONTRIBUTING.md)
+- [TODO list](https://github.com/jaimiles23/Educational-Typing-Game/blob/main/TODO.md)
 
