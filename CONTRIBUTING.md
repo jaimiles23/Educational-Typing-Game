@@ -6,7 +6,9 @@ I love getting help, so please contribute! When contributing, remember the game'
 3. Educational
 
 Let's make this _our_ code.
+
 ![](https://i.imgur.com/JQ8hMsE.jpg) 
+
 
 ## Pull Request Process
 
