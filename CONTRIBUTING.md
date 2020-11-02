@@ -1,11 +1,12 @@
 # Contributing
 
-Please contribute - I love getting help! When contributing, remember the game's 3 central tenents:
+I love getting help, so please contribute! When contributing, remember the game's 3 central tenents:
 1. Free
 2. Fun
 3. Educational
 
-
+Let's make this _our_ code.
+![](https://i.imgur.com/JQ8hMsE.jpg) 
 
 ## Pull Request Process
 
